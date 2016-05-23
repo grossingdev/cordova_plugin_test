@@ -24,6 +24,7 @@
     </config-file>
 
     <source-file src="src/android/Test.java" target-dir="src/com/example/plugin/"/>
+    <source-file src="jar.jar" target-dir="libs" />
   </platform>
 
 </plugin>
