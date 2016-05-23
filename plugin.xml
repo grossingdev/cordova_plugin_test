@@ -24,7 +24,8 @@
     </config-file>
 
     <source-file src="src/android/Test.java" target-dir="src/com/example/plugin/"/>
-    <source-file src="jar.jar" target-dir="libs" />
+    <source-file src="jar/kaunter.jar" target-dir="libs" />
+    <source-file src="jar/woosimprinter_bt.jar" target-dir="libs" />
   </platform>
 
 </plugin>
